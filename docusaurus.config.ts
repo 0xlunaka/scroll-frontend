@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Lunaka Documentation',
   tagline: 'The TurnChain Card Game of Cosmic Warriors',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -45,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/lunaka/lunaka-docs/tree/main/',
+            'https://github.com/0xlunaka/scroll-frontend/tree/main/',
         },
         // Blog feature removed
         theme: {
@@ -57,12 +57,11 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Lunaka',
       logo: {
         alt: 'Lunaka Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -73,7 +72,7 @@ const config: Config = {
         },
         // Blog/News link removed
         {
-          href: 'https://github.com/lunaka/lunaka-docs',
+          href: 'https://github.com/0xlunaka/scroll-frontend',
           label: 'GitHub',
           position: 'right',
         },
@@ -121,11 +120,11 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/lunaka/lunaka-docs',
+              href: 'https://github.com/0xlunaka/scroll-frontend',
             },
             {
               label: 'Play Game',
-              href: 'https://play.lunaka.com',
+              href: 'https://t.me/@lunaka_beta_bot',
             },
           ],
         },
