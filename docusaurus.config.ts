@@ -45,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/lunaka/lunaka-docs/tree/main/',
+            'https://github.com/0xlunaka/scroll-frontend/tree/main/',
         },
         // Blog feature removed
         theme: {
@@ -73,7 +73,7 @@ const config: Config = {
         },
         // Blog/News link removed
         {
-          href: 'https://github.com/lunaka/lunaka-docs',
+          href: 'https://github.com/0xlunaka/scroll-frontend',
           label: 'GitHub',
           position: 'right',
         },
@@ -121,11 +121,11 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/lunaka/lunaka-docs',
+              href: 'https://github.com/0xlunaka/scroll-frontend',
             },
             {
               label: 'Play Game',
-              href: 'https://play.lunaka.com',
+              href: 'https://t.me/@lunaka_beta_bot',
             },
           ],
         },
