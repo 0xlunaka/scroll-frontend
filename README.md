@@ -34,9 +34,10 @@ This documentation is organized into several key sections:
 - **Warrior Types** - Ninja and Samurai specializations
 - **Order Synergies** - Strategic combinations and team building
 
-### 🛠️ Development
-- **Deployment Guide** - How to deploy this documentation site
-- **Contributing** - Guidelines for contributing to the documentation
+### ⚔️ Characters
+- **Meme Senshi Database** - Complete guide to all legendary warriors
+- **Warrior Types** - Ninja and Samurai specializations
+- **Order Synergies** - Strategic combinations and team building
 
 ## Quick Start
 
@@ -94,7 +95,7 @@ The static files will be generated in the `build` folder.
 
 ## Contributing
 
-We welcome contributions to improve the Lunaka documentation! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions to improve the Lunaka documentation!
 
 ### How to Contribute
 
@@ -103,6 +104,17 @@ We welcome contributions to improve the Lunaka documentation! Please see our [Co
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+### Documentation Structure
+
+The documentation is organized into the following files in the `docs/` folder:
+
+- `intro.md` - Welcome and getting started guide
+- `turnchain-combat.md` - TurnChain combat system mechanics
+- `burokku-orders.md` - The five Burokku Orders and their philosophies
+- `card-progression.md` - Card evolution and rarity system
+- `world-lore.md` - World history, continents, and lore
+- `meme-senshi-database.md` - Complete character database
 
 ## Deployment
 
@@ -113,7 +125,7 @@ This documentation site can be deployed to various platforms:
 - **Vercel** - Great for React-based sites
 - **AWS S3 + CloudFront** - Enterprise-grade hosting
 
-See the [Deployment Guide](docs/deployment-guide.md) for detailed instructions.
+For deployment instructions, refer to the [Docusaurus deployment guide](https://docusaurus.io/docs/deployment).
 
 ## Community
 
