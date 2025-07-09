@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Lunaka Documentation',
   tagline: 'The TurnChain Card Game of Cosmic Warriors',
-  favicon: 'img/logo.ico',
+  favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
