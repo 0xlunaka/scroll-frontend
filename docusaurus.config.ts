@@ -62,6 +62,7 @@ const config: Config = {
       logo: {
         alt: 'Lunaka Logo',
         src: 'img/logo.png',
+        href: 'https://lunaka.io',
       },
       items: [
         {
